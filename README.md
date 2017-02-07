@@ -1,1 +1,2 @@
-CTS 322
+## Computer Science 322
+### Instructor: Evan Olds

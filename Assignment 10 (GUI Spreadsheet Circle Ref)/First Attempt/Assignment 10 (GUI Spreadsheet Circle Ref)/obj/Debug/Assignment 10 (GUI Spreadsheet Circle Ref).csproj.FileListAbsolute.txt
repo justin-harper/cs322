@@ -1,0 +1,11 @@
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\bin\Debug\Assignment 9.exe.config
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\obj\Debug\Assignment 9.exe
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\obj\Debug\Assignment 9.pdb
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\bin\Debug\Assignment 9.exe
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\bin\Debug\Assignment 9.pdb
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\bin\Debug\ClassLibrary1.dll
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\bin\Debug\ClassLibrary1.pdb
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\obj\Debug\Assignment 10 (GUI Spreadsheet Circle Ref).csprojResolveAssemblyReference.cache
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\obj\Debug\Assignment_9.Form1.resources
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\obj\Debug\Assignment_9.Properties.Resources.resources
+E:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignment 10 (GUI Spreadsheet Circle Ref)\Assignment 10 (GUI Spreadsheet Circle Ref)\obj\Debug\Assignment 10 (GUI Spreadsheet Circle Ref).csproj.GenerateResource.Cache

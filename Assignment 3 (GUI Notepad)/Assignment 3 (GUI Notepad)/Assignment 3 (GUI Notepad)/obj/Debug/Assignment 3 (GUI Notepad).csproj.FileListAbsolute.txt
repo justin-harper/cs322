@@ -1,0 +1,9 @@
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\bin\Debug\Assignment 3 (GUI Notepad).exe.config
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\bin\Debug\Assignment 3 (GUI Notepad).exe
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\bin\Debug\Assignment 3 (GUI Notepad).pdb
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\obj\Debug\Assignment 3 (GUI Notepad).csprojResolveAssemblyReference.cache
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\obj\Debug\Assignment_3__GUI_Notepad_.Form1.resources
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\obj\Debug\Assignment_3__GUI_Notepad_.Properties.Resources.resources
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\obj\Debug\Assignment 3 (GUI Notepad).csproj.GenerateResource.Cache
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\obj\Debug\Assignment 3 (GUI Notepad).exe
+Z:\Dropbox\School\WSU\CTS 322\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\Assignment 3 (GUI Notepad)\obj\Debug\Assignment 3 (GUI Notepad).pdb

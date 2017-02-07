@@ -1,0 +1,80 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Collections.Generic;
+
+namespace Assignment_2__GUI_Hashing_
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            List<int> list = new List<int>(10000);
+            Random rand = new Random();
+
+            for(int i = 0; i < 10000; i++)
+            {
+                list.Add(rand.Next(20000));
+            }
+
+            HashSet<int> hash = new HashSet<int>();
+
+            for (int i = 0; i < list.Count(); i++)
+            {
+                hash.Add(list.ElementAt(i));
+            }
+
+            
+            textBox1.AppendText("List contains " + list.Count().ToString() + " random items in the range [0, 20000]\n");
+
+            //method 1
+
+            textBox1.AppendText("1.) Hash count: " + hash.Count().ToString()+ " unique entries\n");
+            textBox1.AppendText("     The hash method uses an O(n) add method to create the hashset\n");
+            textBox1.AppendText("     Then the count function requires O(1) time to execute\n");
+            textBox1.AppendText("2.) Using an O(N^2) solution to calculate unique values... this may take a min\n");
+            //method 2
+
+            int uniqueValues = 0;
+
+            for (int i = 0; i < list.Count(); i++)
+            {
+                int checking = list.ElementAt(i);
+                bool unique = false;
+                for (int j = 0; j < i; j++)
+                {
+                    if(checking == list.ElementAt(j))
+                    {
+                        unique = false;
+                        break;
+                    }
+                    else
+                    {
+                        unique = true;
+                    }
+                    
+                }
+
+                if(unique)
+                {
+                    uniqueValues++;
+                }
+            }
+
+            textBox1.AppendText("Number of unique values: " + uniqueValues.ToString() + "\n");
+
+
+        }
+    }
+}

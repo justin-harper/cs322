@@ -1,0 +1,8 @@
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\bin\Debug\Assignment 12 (GUI Tries).exe.config
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\bin\Debug\Assignment 12 (GUI Tries).exe
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\bin\Debug\Assignment 12 (GUI Tries).pdb
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\obj\Debug\Assignment_12__GUI_Tries_.Form1.resources
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\obj\Debug\Assignment_12__GUI_Tries_.Properties.Resources.resources
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\obj\Debug\Assignment 12 (GUI Tries).csproj.GenerateResource.Cache
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\obj\Debug\Assignment 12 (GUI Tries).exe
+Z:\mnt\6862A30D62A2DED6\Dropbox\School\WSU\CTS 322\Assignmnet 12 (GUI Tries)\Assignment 12 (GUI Tries)\Assignment 12 (GUI Tries)\obj\Debug\Assignment 12 (GUI Tries).pdb
